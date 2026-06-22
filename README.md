@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **DERK333/DERK333** is a _special_ repository because its `README.md` (this file) is to my GitHub profile.
 
 Here are some ideas to get started:
@@ -25,4 +25,3 @@ Here are some ideas to get started:
 ⚡                                                                                              Fun fact: CraCK is WaCk
 
 
--->
