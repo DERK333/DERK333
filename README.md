@@ -11,7 +11,7 @@ Here are some ideas to get started:
 
 🤔      I’m looking for beta testers fill out this form [Fill Out This Form](https://forms.gle/mrgnQxfZjDeb5R379) 
 
-💬     Ask me about what you want to konw. I know all about what you want to know all about.
+💬     Ask me about what you want to konw. [I know all about what you want to know all about.](https://www.youtube.com/watch?v=YGrbj3U3A7o)
 
 📫       How to reach me:   [Email Me HeRE](mailto:derricksamuel012@gmail.com)
 
