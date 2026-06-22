@@ -1,16 +1,28 @@
 ## Hi there 👋
 
 <!--
-**DERK333/DERK333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DERK333/DERK333** is a _special_ repository because its `README.md` (this file) is to my GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔭      I’m currently working on a BS in Information Technology
+
+🌱      I’m currently learning at CTU I also study on Coursera.org
+
+🤔      I’m looking for beta testers fill out this form [Fill Out This Form](https://forms.gle/mrgnQxfZjDeb5R379) 
+
+💬     Ask me about what you want to konw. I know all about what you want to know all about.
+
+📫       How to reach me:   [Email Me HeRE](mailto:derricksamuel012@gmail.com)
+
+
+
+😄          [My Blog check the links in navigation tabs while there](https://web3tech.site)
+
+
+
+
+⚡                                                                                              Fun fact: CraCK is WaCk
+
+
 -->
