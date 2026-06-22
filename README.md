@@ -7,7 +7,7 @@ Here are some ideas to get started:
 
 🔭      I’m currently working on a BS in Information Technology
 
-🌱      I’m currently learning at CTU I also study on Coursera.org
+🌱      I’m currently learning at [CTU](https://coloradotech.edu/) I also study on [Coursera](https://coursera.org)
 
 🤔      I’m looking for beta testers fill out this form [Fill Out This Form](https://forms.gle/mrgnQxfZjDeb5R379) 
 
