@@ -1,14 +1,16 @@
 ## Hi there 👋
 
-## Link:  https://sites.google.com/view/dereksamuel/home
+##  personal site Link:  https://sites.google.com/view/dereksamuel/home
 
-## Link:  https://sites.google.com/view/theweb3tech/begin
+##  website Link:  https://sites.google.com/view/theweb3tech/begin
 
 ## Link:  https://blog.theweb3tech.com/
 
-## Link:  https://techderksinsights.blogspot.com/
+##  Blog:  https://techderksinsights.blogspot.com/
 
-## 'THE ABOVE LINKS IS TO FIND MY SITES Yeah!!!'
+##  Blog:  https://crypticmind35.blogspot.com
+
+## THE ABOVE LINKS IS TO FIND MY SITES Yeah
 
 **DERK333/DERK333** is a _special_ repository because its `README.md` (this file) is to my GitHub profile.
 
