@@ -87,10 +87,10 @@ motto: "Constantly building, iterating, and solving problems."
 <a href="https://github.com/DERK333" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
 </a>
-<a href="https://dereks.bio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio%20%2F%20Bio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" />
+<a href="https://web3tech.site/" target="web3tech.site">
+  <img src="https://img.shields.io/badge/Portfolio%20%2F%20Bio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" target="google.com" />
 </a>
-<a href="mailto:contact@dereks.bio" target="_blank">
+<a href="mailto:derek.samuel@web3tech.site" target="mail.google.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
 </a>
 
