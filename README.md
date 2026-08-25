@@ -11,7 +11,7 @@
   <a href="https://github.com/DERK333"><img src="https://img.shields.io/github/followers/DERK333?label=Followers&style=flat&color=333333&logo=github" alt="GitHub Followers" /></a>
 </p>
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me 
 
 ```yaml
 name: Derek Samuel
@@ -20,13 +20,7 @@ focus: Full-Stack Development, Cloud Computing & Systems Architecture
 currently_learning: Advanced DevOps pipelines, Distributed Systems, Modern Cloud Architecture
 hobbies: Coding side projects, exploring emerging tech, optimizing workflows
 motto: "Constantly building, iterating, and solving problems."
----
-
----
-
-**Part 2: Tech Stack**
-
-```markdown
+```
 ---
 
 ### 🛠️ Tech Stack & Tools
@@ -58,41 +52,6 @@ motto: "Constantly building, iterating, and solving problems."
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
----
-##  personal site Link:  https://sites.google.com/view/dereksamuel/home
-
-##  website Link:  https://sites.google.com/view/theweb3tech/begin
-
-## Link:  https://blog.theweb3tech.com/
-
-##  Blog:  https://techderksinsights.blogspot.com/
-
-##  Blog:  https://crypticmind35.blogspot.com
-
-## THE ABOVE LINKS IS TO FIND MY SITES Yeah
-
-**DERK333/DERK333** is a _special_ repository be
-
-
-
-
-
-🌱      I’m currently learning at [Coursera](https://coursera.org) and I study through the [Merit America](https://meritamerica.org/) program.
-
-🤔      I’m looking for beta testers fill out this form [Fill Out This Form](https://forms.gle/mrgnQxfZjDeb5R379) 
-
-💬     Ask me about what you want to konw. [I know all about what you want to know all about.](https://www.youtube.com/watch?v=YGrbj3U3A7o)
-
-📫       How to reach me:   [Email Me HeRE](mailto:derricksamuel012@gmail.com)
-
-
-
-😄          [My Blog check the links in navigation tabs while there](https://web3tech.site)
-
-
-
-
-⚡                                                                                              Fun fact: CraCK is WaCk
 
 ### 📊 GitHub Statistics
 
